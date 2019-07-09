@@ -1,0 +1,26 @@
+1
+2
+3
+34
+34
+
+
+# 버전을 어떻게 만드는지 말해줌.
+# 1  git에게 add work.txt  => 깃에게 work.txt를 지금부터 버전관리할거야.
+# git commit -m "work 1" 라고 쓰면 깃에게 새로운 버전을 만들어서 제출할거야. 작업한 메시지는 'work 1'이다. -m이란 메세지란 의미
+
+# git config --global user.name "egoing"  .깃에게 컴퓨터 사용자의 이름은 egoing 이야 각각 만든 사람은 egoing이야.
+# 위쪽 화살표 키 쓰면 금방 썼던거 자동으로 나온다.
+# git config --global user.email "egoing@gmail.com" 깃에게 컴퓨터 사용자의 이메일은 이거야.
+
+# C create 버전 만들기
+# R Read 버전 보기
+# U Update 
+# D Delete
+
+# git log   => 깃아, 지금까지 내가 만든 버전의 역사를 출력해봐
+# git status 깃에게 현재 내 저장소의 상태를 알려줘. 항상 해야 하는 것 현재 저장소의 상태를 체크하기
+# git status에서 변화된 것을 알려면 작업한 것을 저장해야 한다. "ctrl + s" 로 저장해라.
+
+# 1. 현재 상태보기 git status
+# 2. 
